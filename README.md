@@ -19,9 +19,9 @@
 ### 🔥 Избранные проекты
 #### [Go TaskManager](https://github.com/paxaf/TaskManager)
 Сервер для управления и контроля задач. 
-`Go` `Docker` `Gin` `JWT`
+`Go` `Docker` `JWT`
 
-#### [KafkaKibanaElastic](https://github.com/paxaf/github-actions-template)
+#### [KafkaKibanaElastic](https://github.com/paxaf/Kafka-Kibana-Elastic)
 Проект для знакомства с данными технологиями
 `Go` `Kafka` `Kibana` `Elasticsearch`
 
